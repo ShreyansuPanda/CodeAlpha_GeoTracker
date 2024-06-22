@@ -2,6 +2,8 @@
 
 A geolocation tracking application built with Python, Tkinter for the GUI, and Folium for creating interactive maps. This application allows users to fetch geolocation data based on an IP address and visualize the location on a map.
 
+##Video Showcase: https://www.linkedin.com/posts/shreyansu-panda-5a9854276_pythonprogramming-python-programming-activity-7210174493103730688-d5F9?utm_source=share&utm_medium=member_desktop
+
 ## Features
 
 - Fetch geolocation data using the IPinfo API.
